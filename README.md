@@ -18,6 +18,12 @@
   <br/>
   <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
     <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white">
+  <br/>
+    <img src="https://img.shields.io/badge/javaScript-yellow?style=for-the-badge&logo=javaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=javaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/javaScript-yellow?style=for-the-badge&logo=javaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/javaScript-yellow?style=for-the-badge&logo=javaScript&logoColor=white">
+  
   <h4>사용하는 툴입니다.</h4>
     <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
