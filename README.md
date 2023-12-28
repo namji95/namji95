@@ -65,6 +65,8 @@
       <h3> 구경오세요! </h3>
 <p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 Tistory블로그 입니다. ✌ </p>
 
+[![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
+
   [![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
 
 </div>
