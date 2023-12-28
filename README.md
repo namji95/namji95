@@ -53,8 +53,8 @@
 </p>
  
 <p align="center">
-  <a href="https://github.com/jazzyfact95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzyfact95&show_icons=true&include_all_commits=true&theme=" />
+  <a href="https://github.com/namji95">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namji95&show_icons=true&include_all_commits=true&theme=" />
   </a>
 </p>
 
