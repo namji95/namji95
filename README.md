@@ -1,4 +1,4 @@
-
+[[
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=50&animation=fadeIn)
@@ -17,19 +17,9 @@
   <h2>기술 스택</h2>
   <br/>
   <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
-  <img src="[https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white](https://img.shields.io/badge/:badgeContent
-)"/></a>
-  <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SemanticUIReact-35BDB2?style=flat&logo=Semantic-UI3&logoColor=white"/></a>
+  <img src=/></a>
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><a/>
     <br/>
-         <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
-         <img src="https://img.shields.io/badge/Babel-005571?style=flat&logo=Babel&logoColor=white"/></a>
-         <img src="https://img.shields.io/badge/StyledComponent-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
-         <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
-         <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
-      <br/>
   <h4>알고 있는 기술 스택입니다.</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
@@ -81,3 +71,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
 
 </div>
+](https://img.shields.io/badge/:badgeContent
+)https://img.shields.io/badge/:badgeContent
+](https://img.shields.io/badge/:badgeContent
+)https://img.shields.io/badge/:badgeContent
