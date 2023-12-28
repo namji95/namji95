@@ -38,11 +38,9 @@
     <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
     <br/>
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=GitHub&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=GitHub&logoColor=black"/>
       <br/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=Adobe-XD&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 </div>
 <hr/>
 
