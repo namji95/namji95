@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <a href="[https://github.com/namji95](https://github.com/namji95)">
+  <a href="https://github.com/namji95">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
   </a>
 </p>
