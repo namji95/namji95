@@ -18,7 +18,7 @@
   <br/>
   <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
   <img src=/></a>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><a/>
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /><a />
     <br/>
   <h4>알고 있는 기술 스택입니다.</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
