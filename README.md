@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Oracle-e01414?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoColor=white">
