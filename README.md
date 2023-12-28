@@ -44,8 +44,6 @@
 </div>
 <hr/>
 
-
-
 <p align="center">
   <a href="https://github.com/namji95">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
@@ -58,7 +56,6 @@
   </a>
 </p>
 
-
 <div align="center" style="text-align:center">
 
   <hr/>
@@ -66,8 +63,6 @@
 <p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 Tistory블로그 입니다. ✌ </p>
 
 [![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
-
-  [![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
 
 </div>
 
