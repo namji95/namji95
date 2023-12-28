@@ -35,7 +35,7 @@
   <h4>사용하는 툴입니다.</h4>
     <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Intellij-black?style=flat&logo=Intellij&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/>
       <br/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint3&logoColor=white"/>
