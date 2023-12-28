@@ -21,8 +21,11 @@
   <br/>
     <img src="https://img.shields.io/badge/HTML5-e16553?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javaScript-yellow?style=for-the-badge&logo=javaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
     <br/>
+    <img src="https://img.shields.io/badge/Oracle-e01414?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-0055ff?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   
   <h4>사용하는 툴입니다.</h4>
     <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
