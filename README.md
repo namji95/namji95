@@ -17,9 +17,9 @@
   <h2>기술 스택</h2>
   <br/>
   <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> 
-      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br/>
     <img src="https://img.shields.io/badge/HTML5-e16553?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
