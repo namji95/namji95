@@ -65,10 +65,7 @@
       <h3> 구경오세요! </h3>
 <p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 Tistory블로그 입니다. ✌ </p>
 
-    <img src="https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white"/>
-  [![Tistory's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)](https://velog.io/@jazzyfact95)
-
-  <a href="https://www.tistory.com/">
+  [![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://www.tistory.com/)
 
 </div>
 
