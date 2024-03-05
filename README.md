@@ -1,7 +1,7 @@
  
 <div align="center", background-repeat="repeat">
  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=700&section=header&text=😊&fontSize=50&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=150&section=header&text=😊&fontSize=50&animation=fadeIn)
 
  </div>
 
