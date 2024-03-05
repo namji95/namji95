@@ -3,7 +3,7 @@
  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=150&section=header&text=😊&fontSize=50&animation=fadeIn)
 
- </div>
+
 
 <hr/>
 <div align="center">
@@ -70,3 +70,4 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
 
 </div>
+ </div>
