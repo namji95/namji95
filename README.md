@@ -1,5 +1,5 @@
  
-<div align="center", background-repeat="repeat">
+<div align="center", height=500>
  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=150&section=header&text=😊&fontSize=50&animation=fadeIn)
 
