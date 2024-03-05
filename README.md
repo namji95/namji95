@@ -2,7 +2,7 @@
 <div align="center">
  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=700&section=header&text=😊&fontSize=50&animation=fadeIn&background-position=center)
-</div>
+
  
 
 <hr/>
@@ -69,4 +69,5 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
 
+</div>
 </div>
