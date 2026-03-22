@@ -1,72 +1,117 @@
- 
-<div align="center", height=500>
- 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=150&section=header&text=😊&fontSize=50&animation=fadeIn)
-
-</div>
-
-<hr/>
 <div align="center">
-  <h2>안녕하세요,</h2>
-  <h3>노력하고 발전하는 개발자, 남지훈입니다.</h3>
-  <p>최선, 최고의 개발자를 목표로 프로덕트 개발에 임하고 있습니다.</p>
-</div>
-<hr/>
-<div align="center">
-  <h2>기술 스택</h2>
-  <br/>
-  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> 
-  <br/>
-    <img src="https://img.shields.io/badge/HTML5-e16553?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Oracle-e01414?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-0055ff?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  
-  <h4>사용하는 툴입니다.</h4>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2c2056?style=flat&logo=EclipseIDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-45abf3?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-    <br/>
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=GitHub&logoColor=black"/>
-      <br/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-</div>
-<hr/>
 
-<p align="center">
-  <a href="https://github.com/namji95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
-  </a>
-</p>
- 
-<p align="center">
-  <a href="https://github.com/namji95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namji95&show_icons=true&include_all_commits=true&theme=" />
-  </a>
-</p>
-
-<div align="center" style="text-align:center">
-
-  <hr/>
-      <h3> 구경오세요! </h3>
-<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 Tistory블로그 입니다. ✌ </p>
-
-[![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Backend%20Engineer&fontSize=40&fontColor=ffffff)
 
 </div>
+
+<br/>
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
+### **남지훈 | 백엔드 엔지니어**
+
+확장 가능한 API · 데이터 처리 · 분산 시스템  
+안정성과 성능을 고려한 **실서비스 중심 백엔드 개발**
+
+</div>
+
+---
+
+# 🧩 기술 스택
+
+<div align="center">
+
+### 💻 Language / Framework
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white"/>
+
+### 🔍 Search · Cache · Messaging
+<img src="https://skillicons.dev/icons?i=elasticsearch,redis,rabbitmq" />
+
+### ⚙️ Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,postman" />
+
+<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack"/>
+<img src="https://img.shields.io/badge/Termius-000000?style=flat-square"/>
+
+</div>
+
+---
+
+# 📊 GitHub 활동
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=namji95&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namji95&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 GitHub 통계
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=namji95&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namji95&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 개발 스타일
+
+<div align="center">
+
+✔ 단순 기능 구현이 아닌 **운영 가능한 구조 설계 지향**  
+✔ 비동기 처리 및 데이터 흐름 중심 설계  
+✔ 로그, 모니터링, 장애 대응까지 고려한 개발  
+✔ 반복 작업 자동화 및 데이터 파이프라인 구축  
+
+</div>
+
+---
+
+# 🚀 주요 관심 분야
+
+<div align="center">
+
+Backend Architecture  
+Data Pipeline & Crawling  
+Search System (Elasticsearch)  
+Message Queue (RabbitMQ)  
+System Design & Optimization  
+
+</div>
+
+---
+
+# ✍️ 블로그
+
+<div align="center">
+
+개발 과정과 학습 내용을 기록합니다  
+
+[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://namji9507.tistory.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=120&section=footer)
 
 </div>
