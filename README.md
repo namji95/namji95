@@ -76,9 +76,9 @@
 <div align="center">
 
 ✔ 단순 기능 구현이 아닌 **운영 가능한 구조 설계 지향**  
-✔ 비동기 처리 및 데이터 흐름 중심 설계  
-✔ 로그, 모니터링, 장애 대응까지 고려한 개발  
-✔ 반복 작업 자동화 및 데이터 파이프라인 구축  
+✔ **비동기 처리** 및 **데이터 흐름 중심 설계**  
+✔ **로그, 모니터링, 장애 대응**까지 고려한 개발  
+✔ 반복 작업 **자동화** 및 **데이터 파이프라인** 구축  
 
 </div>
 
@@ -88,11 +88,12 @@
 
 <div align="center">
 
-Backend Architecture  
-Data Pipeline & Crawling  
-Search System (Elasticsearch)  
-Message Queue (RabbitMQ)  
-System Design & Optimization  
+**백엔드 아키텍처 설계**  
+**데이터 파이프라인** 및 **크롤링**  
+**검색 엔진** (Elasticsearch)  
+**메시지 큐** 기반 비동기 처리 (RabbitMQ)  
+시스템 **성능 개선** 및 **최적화**  
+**AI Agent** 기반 자동화 시스템  
 
 </div>
 
