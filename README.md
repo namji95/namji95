@@ -63,11 +63,3 @@
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://namji9507.tistory.com/)
 
 </div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=120&section=footer)
-
-</div>
