@@ -21,39 +21,9 @@
 
 <div align="center">
 
-### 💻 Language / Framework
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white"/>
-
-### 🔍 Search · Cache · Messaging
-<img src="https://skillicons.dev/icons?i=elasticsearch,redis,rabbitmq" />
-
-### ⚙️ Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,linux" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=pycharm,vscode,github,gitlab,postman" />
-
-<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack"/>
-<img src="https://img.shields.io/badge/Termius-000000?style=flat-square"/>
-
-</div>
-
----
-
-# 📊 GitHub 활동
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=namji95&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namji95&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgresql,elasticsearch,redis,rabbitmq" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
 
 </div>
 
@@ -64,36 +34,21 @@
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=namji95&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namji95&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧠 개발 스타일
+# 🧠 개발 스타일 & 관심 분야
 
 <div align="center">
 
-✔ 단순 기능 구현이 아닌 **운영 가능한 구조 설계 지향**  
-✔ **비동기 처리** 및 **데이터 흐름 중심 설계**  
-✔ **로그, 모니터링, 장애 대응**까지 고려한 개발  
-✔ 반복 작업 **자동화** 및 **데이터 파이프라인** 구축  
+단순 기능 구현이 아닌 **운영 가능한 구조 설계**를 지향하며,  
+**비동기 처리**와 **데이터 흐름 중심 설계**로 안정적인 백엔드를 만듭니다.  
+**로그·모니터링·장애 대응**까지 고려한 개발, 반복 작업의 **자동화**를 중요하게 생각합니다.
 
-</div>
-
----
-
-# 🚀 주요 관심 분야
-
-<div align="center">
-
-**백엔드 아키텍처 설계**  
-**데이터 파이프라인** 및 **크롤링**  
-**검색 엔진** (Elasticsearch)  
-**메시지 큐** 기반 비동기 처리 (RabbitMQ)  
-시스템 **성능 개선** 및 **최적화**  
-**AI Agent** 기반 자동화 시스템  
+관심 분야: **백엔드 아키텍처** · **데이터 파이프라인 / 크롤링** · **검색 엔진(Elasticsearch)** · **메시지 큐(RabbitMQ)** · **성능 최적화** · **AI Agent 자동화**
 
 </div>
 
